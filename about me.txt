@@ -23,7 +23,7 @@
 +	
 +	<p>While at UIUC, I am interested in joining ACM SigArt (an ACM special interest group for artificial intelligence), WCS (Women in Computer Science), and possibly studying abroad for a sememster in Singapore. I look forward to having new experiences and becoming independent! </p>
 +	
-+	<p>	Take a second to look at my <a href="assets/Resume-FirstnameLastname.pdf">r?sum?</a>!</p>
++	<p>	Take a second to look at my resume!</p>
 +</body>
 +
 +</div>
